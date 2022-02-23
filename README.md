@@ -5,19 +5,31 @@
 - 🌱 I’m currently learning = **Copy-Pasting**
 - 💬 Ask me about = **How to get Error**
 - ⚡ Fun fact: = **Error Master**
-- 💌 Message on Instagram = **[Monu](instagram.com/_monu70152)**
 
 
 [![Monu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monu70152&count_private=true&theme=aura&show_icons=true&include_all_commits=tru&title_color=008000&text_color=0000FF&icon_color=FF0000&border_radius=18&border_color=FFA500&bg_color=FFFFFF,FFA500,FFFFFF,008000)](https://github.com/monu70152)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monu70152&layout=compact&theme=chartreuse-dark&langs_count=15)](https://github.com/monu70152/github-readme-stats)                                                                                                                      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monu70152&layout=compact&theme=chartreuse-light&&bg_color=FFFFFF,FFA500,FFFFFF,008000&langs_count=15)](https://github.com/monu70152/github-readme-stats)                                                                                                                      
 
-<table
+
+<h1>Contact Me
+
+<p align='left'>
+<a href="https://t.me/Monu_ohlyan/">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=round" width="150" />
+
+ 
+<p align='left'>
+<a href="https://instagram.com/_monu70152">
+<img src="https://img.shields.io/badge/Instagram-ff0300?style=for-the-badge&logo=instagram&logoColor=white&style=round" width="150" />
+ 
+ 
+ <table
   <tr
     <h3 align="center"> 
     <td>😎Hello Visitor😎</td>
     <td><img src="https://profile-counter.glitch.me/monu70152/count.svg" alt="vistor count" height="30"/></td>
-    <td>🥰🥰🥰🥰♥️🥰🥰🥰🥰<td>
+    <td>🥰🥰🥰♥🥰🥰🥰<td>
    </h3>
   </tr>
 </table>
