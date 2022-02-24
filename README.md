@@ -1,5 +1,6 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="100px" align="left">
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p> <img src="https://github.com/monu70152/monu70152/blob/main/assets/indian-flag-15.gif%20(320%C3%97200).gif" align="right" width="150"></p>
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p> 
+<img src="https://github.com/monu70152/monu70152/blob/main/assets/indian-flag-15.gif%20(320%C3%97200).gif" align="right" width="100"></p>
 <h1>Welcome to Monu's-Projects,
  I'm Noob Pro Max</h1>
 
