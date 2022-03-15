@@ -23,7 +23,6 @@
   <a href="https://instagram.com/_monu70152">
    <img src="https://img.shields.io/badge/Instagram-ff0300?style=for-the-badge&logo=instagram&logoColor=white&style=round" width="150" />
  
-![Monu](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Monu70152&theme=vue)
  
  <table
   <tr
