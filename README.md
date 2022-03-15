@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=futura&color=%23F71C13&size=40&center=true&vCenter=true&width=500&height=80&lines=Hello+Everyone%F0%9F%8E%89%F0%9F%8E%89;It's+Me+Monu%F0%9F%A5%B0)](https://git.io/typing-svg)
 
-<h1>Welcome I'm Noob Pro Max</h1>
 <p align="center"><img src="https://github.com/monu70152/monu70152/blob/main/assets/monu.gif" width="50%"></p>
 
 
