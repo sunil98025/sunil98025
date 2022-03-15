@@ -27,9 +27,7 @@
  <table
   <tr
     <h3 align="center"> 
-    <td>😎Hello Visitor😎</td>
     <td><img src="https://profile-counter.glitch.me/monu70152/count.svg" alt="vistor count" height="30"/></td>
-    <td>🥰🥰🥰♥🥰🥰🥰<td>
    </h3>
   </tr>
 </table>
