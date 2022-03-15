@@ -9,13 +9,9 @@
 - 💬 Ask me about = **How to get Error**
 - ⚡ Fun fact: = **Error Master**
 
-![Monu](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monu70152&theme=vue)
-
 
 [![Monu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monu70152&count_private=true&theme=aura&show_icons=true&include_all_commits=tru&title_color=008000&text_color=0000FF&icon_color=FF0000&border_radius=18&border_color=FFA500&bg_color=FFFFFF,FFA500,FFFFFF,008000)](https://github.com/monu70152)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monu70152&layout=compact&theme=chartreuse-light&&bg_color=FFFFFF,FFA500,FFFFFF,008000&langs_count=15)](https://github.com/monu70152/github-readme-stats)                                                                                                                      
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=futura&color=%230CB5B6&size=30&center=true&vCenter=true&width=300&height=80&lines=Contact+Me%F0%9F%93%9E)](https://git.io/typing-svg)
