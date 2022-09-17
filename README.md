@@ -10,6 +10,7 @@
 
 [![Monu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monu70152&count_private=true&theme=aura&show_icons=true&include_all_commits=tru&title_color=008000&text_color=0000FF&icon_color=FF0000&border_radius=18&border_color=FFA500&bg_color=FFFFFF,FFA500,FFFFFF,008000)](https://github.com/monu70152)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monu70152&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=monu70152&theme=chartreuse-dark">
